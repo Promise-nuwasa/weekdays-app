@@ -28,8 +28,8 @@ switch(dayOfWeekNumber){
         nameOfDay='Friday';
         quote ='Weekend is here!'
         break
-        case 0:
-        nameOfDay='Sunday';
+        case 6:
+        nameOfDay='Saturday';
         quote ='Time to party!'
         break
 }
